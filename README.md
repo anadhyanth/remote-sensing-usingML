@@ -145,6 +145,6 @@ This repository is intended as a Machine Learning case study and learning projec
 
 ## Author
 
-**Manoj Kumar Sunkara**
+**Anadhyanth Bapanapalli**
 
 Artificial Intelligence & Machine Learning
